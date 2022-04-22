@@ -1,0 +1,33 @@
+img {
+    height: 100px;
+    border-radius: 100%;
+}
+
+body {
+    background-color: #EEEEEE;
+}
+
+h1 {
+    color: #283C63;
+    size: 300px;
+}
+
+h3 {
+    color: #005691;
+    size: 90px;
+}
+
+h5 {
+    color: #07689F;
+    size: 50px;
+}
+
+h4 {
+    color: #00909E;
+    size: 75px;
+}
+
+h2{
+    text-align: center;
+    color: #1687A7;
+}
